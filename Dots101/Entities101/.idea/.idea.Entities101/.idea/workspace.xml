@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3334a8c-9c2b-41fc-a621-1e5b7beb878a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_01.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_01.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_01.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_01_Sunless.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_01_Sunless.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_01_Sunless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_01_Sunless.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_02.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_02.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_02.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_02_Sunless.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_02_Sunless.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_02_Sunless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_02_Sunless.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_03.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_03.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_03.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_03_Sunless.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_03_Sunless.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_03_Sunless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_03_Sunless.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_04.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_04.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_04.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_04_Sunless.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_04_Sunless.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_04_Sunless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_04_Sunless.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_05.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_05.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_05.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_05_Sunless.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_05_Sunless.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_05_Sunless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_05_Sunless.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_06.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_06.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_06.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_06_Sunless.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_06_Sunless.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_06_Sunless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_06_Sunless.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_01.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_01.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_01.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_01_Moonless.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_01_Moonless.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_01_Moonless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_01_Moonless.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_02.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_02.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_02.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_02_Moonless.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_02_Moonless.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_02_Moonless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_02_Moonless.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_03.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_03.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_03.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_03_Moonless.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_03_Moonless.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_03_Moonless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_03_Moonless.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Day.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Day.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Day.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Day.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Day_Sunless.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Day_Sunless.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Day_Sunless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Day_Sunless.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Night.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Night.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Night.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Night.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Night_Moonless.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Night_Moonless.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Night_Moonless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Night_Moonless.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Rainy.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Rainy.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Rainy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Rainy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Snowy.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Snowy.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Snowy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Snowy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Sunrise.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Sunrise.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Sunrise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Sunrise.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Sunset.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Sunset.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Sunset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS002/FS002_Sunset.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Day.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Day.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Day.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Day.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Day_Sunless.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Day_Sunless.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Day_Sunless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Day_Sunless.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Night.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Night.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Night.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Night.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Night_Moonless.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Night_Moonless.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Night_Moonless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Night_Moonless.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Rainy.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Rainy.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Rainy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Rainy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Snowy.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Snowy.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Snowy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Snowy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Sunrise.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Sunrise.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Sunrise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Sunrise.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Sunset.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Sunset.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Sunset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS003/FS003_Sunset.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Day.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Day.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Day.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Day.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Day_Sunless.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Day_Sunless.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Day_Sunless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Day_Sunless.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Night.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Night.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Night.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Night.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Night_Moonless.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Night_Moonless.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Night_Moonless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Night_Moonless.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Rainy.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Rainy.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Rainy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Rainy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Snowy.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Snowy.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Snowy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Snowy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Sunrise.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Sunrise.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Sunrise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Sunrise.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Sunset.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Sunset.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Sunset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Sunset.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Day.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Day.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Day.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Day.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Day_Sunless.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Day_Sunless.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Day_Sunless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Day_Sunless.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night_Moonless.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night_Moonless.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night_Moonless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night_Moonless.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Rainy.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Rainy.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Rainy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Rainy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Snowy.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Snowy.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Snowy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Snowy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Sunrise.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Sunrise.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Sunrise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Sunrise.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Sunset.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Sunset.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Sunset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Sunset.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Readme.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/ReleaseNotes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/ReleaseNotes.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Demo with terrain.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Demo with terrain.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Demo without terrain.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Demo without terrain.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Lightmaps).meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Lightmaps)/LightingData.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Lightmaps)/LightingData.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Lightmaps)/Lightmap-0_comp_dir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Lightmaps)/Lightmap-0_comp_dir.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Lightmaps)/Lightmap-0_comp_light.exr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Lightmaps)/Lightmap-0_comp_light.exr.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Lightmaps)/ReflectionProbe-0.exr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Lightmaps)/ReflectionProbe-0.exr.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain).meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Brush_Flower.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Brush_Flower.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Brush_Grass_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Brush_Grass_01.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Brush_Grass_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Brush_Grass_02.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/SampleTerrain.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/SampleTerrain.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/TerrainDirt.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/TerrainDirt.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/TerrainGrass.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/TerrainGrass.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/TerrainRock.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/TerrainRock.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Texture_Dirt_Diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Texture_Dirt_Diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Texture_Dirt_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Texture_Dirt_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Texture_Grass_Diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Texture_Grass_Diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Texture_Grass_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Texture_Grass_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Texture_Rock_Diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Texture_Rock_Diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Texure_Rock_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Texure_Rock_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/HelloCube.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/HelloCube/1. MainThread.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/HelloCube/1. MainThread/HelloCube_MainThread.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/HelloCube/1. MainThread/HelloCube_MainThread.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Serialization.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Serialization.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Utilities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Utilities.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Editor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Editor.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Editor.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Reflection.Editor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Reflection.Editor.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/link.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/link.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/Bootstrap License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/Bootstrap License.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/ConfigData.bytes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/ConfigData.bytes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/Hidden.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/Hidden/ExtractSpriteShader.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/Hidden/ExtractSpriteShader.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/Hidden/GUIUtilShader.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/Hidden/GUIUtilShader.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/Hidden/LazyEditorIconShader.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/Hidden/LazyEditorIconShader.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/Hidden/SdfIconShader.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/Hidden/SdfIconShader.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/OdinPathLookup.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/OdinPathLookup.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/SdfIconAtlas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/SdfIconAtlas.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/GeneralDrawerConfig.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/GeneralDrawerConfig.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/InspectorConfig.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/InspectorConfig.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/OdinModuleConfig.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/OdinModuleConfig.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Addressables.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Addressables.data.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Entities.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Entities.data.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Localization.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Localization.data.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Mathematics.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Mathematics.data.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Mathematics.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Mathematics/MathematicsDrawers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Mathematics/MathematicsDrawers.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Mathematics/Sirenix.OdinInspector.Modules.UnityMathematics.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Mathematics/Sirenix.OdinInspector.Modules.UnityMathematics.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Mathematics/manifest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Mathematics/manifest.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Readme.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/DefaultVolumeProfile.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/DefaultVolumeProfile.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Mobile_RPAsset.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Mobile_RPAsset.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Mobile_Renderer.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Mobile_Renderer.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/PC_RPAsset.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/PC_RPAsset.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/PC_Renderer.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/PC_Renderer.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Changelog.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Changelog.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Credits.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Credits.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Bewildered.SmartLibrary.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Bewildered.SmartLibrary.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/AssetGUIDHashSet.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/AssetGUIDHashSet.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/CollectionReference.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/CollectionReference.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/Collections.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/Collections/CompoundCollection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/Collections/CompoundCollection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/Collections/ILibrarySet.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/Collections/ILibrarySet.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/Collections/LibraryCollection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/Collections/LibraryCollection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/Collections/RootLibraryCollection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/Collections/RootLibraryCollection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/Collections/SmartCollection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/Collections/SmartCollection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/Collections/StandardCollection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/Collections/StandardCollection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/FolderReference.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/FolderReference.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/LibraryData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/LibraryData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/LibraryDatabase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/LibraryDatabase.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/LibraryHierarchyChangedEventArgs.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/LibraryHierarchyChangedEventArgs.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/LibraryItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/LibraryItem.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/LibraryItemsChangedEventArgs.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/LibraryItemsChangedEventArgs.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/SerializableDictionary.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/SerializableDictionary.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/TypeReference.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/TypeReference.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/UStackRef.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Data/UStackRef.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/DefaultParentManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/DefaultParentManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Draggers.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Draggers/CollectionsTreeViewDragger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Draggers/CollectionsTreeViewDragger.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Draggers/ListViewDragger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Draggers/ListViewDragger.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Draggers/ReorderListManipulator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Draggers/ReorderListManipulator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Draggers/TreeViewDragger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Draggers/TreeViewDragger.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/EditorAssetsFolderLocator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/EditorAssetsFolderLocator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Editors.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Editors/CompoundCollectionEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Editors/CompoundCollectionEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Editors/DefaultParentLinkEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Editors/DefaultParentLinkEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Editors/LibraryCollectionEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Editors/LibraryCollectionEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Editors/SmartCollectionEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Editors/SmartCollectionEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Extensions.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Extensions/ElementExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Extensions/ElementExtensions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Extensions/GenericMenuExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Extensions/GenericMenuExtensions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/LibraryAssetPostProcessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/LibraryAssetPostProcessor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/LibraryPreferences.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/LibraryPreferences.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/LibrarySetManipulator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/LibrarySetManipulator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/AssetPreviewManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/AssetPreviewManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Cache.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Cache/PreviewCache.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Cache/PreviewCache.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Cache/PreviewCacheManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Cache/PreviewCacheManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Cache/PreviewPriorityQueue.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Cache/PreviewPriorityQueue.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Generators.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Generators/AudioPreviewGenerator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Generators/AudioPreviewGenerator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Generators/MaterialPreviewGenerator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Generators/MaterialPreviewGenerator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Generators/MeshPreviewGenerator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Generators/MeshPreviewGenerator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Generators/PrefabPreviewGenerator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Generators/PrefabPreviewGenerator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Generators/PreviewGeneratorBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Generators/PreviewGeneratorBase.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/PreviewEditorUtility.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/PreviewEditorUtility.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/PreviewRenderer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/PreviewRenderer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/PreviewStage.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/PreviewStage.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Previewer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Previews/Previewer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/CollectionReferencePropertyDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/CollectionReferencePropertyDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/FolderReferencePropertyDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/FolderReferencePropertyDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/LibraryCollectionPropertyDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/LibraryCollectionPropertyDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/RuleDrawers.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/RuleDrawers/ComponentRulePropertyDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/RuleDrawers/ComponentRulePropertyDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/RuleDrawers/ExtensionRulePropertyDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/RuleDrawers/ExtensionRulePropertyDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/RuleDrawers/LabelRulePropertyDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/RuleDrawers/LabelRulePropertyDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/RuleDrawers/LibraryRuleBasePropertyDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/RuleDrawers/LibraryRuleBasePropertyDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/RuleDrawers/NameRulePropertyDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/RuleDrawers/NameRulePropertyDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/RuleDrawers/PrefabRulePropertyDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/RuleDrawers/PrefabRulePropertyDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/RuleDrawers/TypeRulePropertyDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/RuleDrawers/TypeRulePropertyDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/RuleSetPropertyDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/PropertyDrawers/RuleSetPropertyDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Rules.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Rules/ComponentRule.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Rules/ComponentRule.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Rules/ExtensionRule.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Rules/ExtensionRule.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Rules/LabelRule.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Rules/LabelRule.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Rules/LibraryRuleBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Rules/LibraryRuleBase.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Rules/NameRule.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Rules/NameRule.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Rules/PrefabRule.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Rules/PrefabRule.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Rules/RuleSet.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Rules/RuleSet.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Rules/TypeRule.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Rules/TypeRule.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/SessionData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/SessionData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/SmartLibraryWindow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/SmartLibraryWindow.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Common.uss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Common.uss.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/CommonDark.uss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/CommonDark.uss.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/CommonLight.uss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/CommonLight.uss.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/DropdownWindow.uss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/DropdownWindow.uss.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/FolderSelector.uss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/FolderSelector.uss.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/collection-view-linked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/collection-view-linked.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/collection-view-unlinked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/collection-view-unlinked.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/compound_collection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/compound_collection.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_collection-view-linked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_collection-view-linked.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_collection-view-unlinked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_collection-view-unlinked.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_compound_collection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_compound_collection.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_default_parent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_default_parent.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_grid_display_mode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_grid_display_mode.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_list_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_list_add.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_list_add_dropdown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_list_add_dropdown.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_list_display_mode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_list_display_mode.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_list_remove.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_list_remove.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_options.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_options.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_smart_collection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_smart_collection.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_smart_library_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_smart_library_icon.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_standard-collection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/d_standard-collection.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/default_parent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/default_parent.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/grid_display_mode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/grid_display_mode.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/list_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/list_add.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/list_add_dropdown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/list_add_dropdown.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/list_display_mode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/list_display_mode.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/list_remove.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/list_remove.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/options.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/options.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/smart_collection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/smart_collection.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/smart_library_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/smart_library_icon.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/standard-collection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Icons/standard-collection.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/LibraryCollection.uss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/LibraryCollection.uss.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/LibraryCollectionDark.uss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/LibraryCollectionDark.uss.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/LibraryCollectionLight.uss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/LibraryCollectionLight.uss.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Materials/PremultipliedAlphaBlend.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Materials/PremultipliedAlphaBlend.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Materials/PremultipliedAlphaBlendSRP.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Materials/PremultipliedAlphaBlendSRP.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Materials/PreviewGUIMaterial.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Materials/PreviewGUIMaterial.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Materials/PreviewGUIMaterialSRP.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/Materials/PreviewGUIMaterialSRP.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/MultiSplitView.uss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/MultiSplitView.uss.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/ReorderableList.uss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/ReorderableList.uss.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/ReorderableListDark.uss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/ReorderableListDark.uss.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/ReorderableListLight.uss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/ReorderableListLight.uss.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/SmartLibraryWindow.uss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/SmartLibraryWindow.uss.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/SmartLibraryWindow.uxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/SmartLibraryWindow.uxml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/SmartLibraryWindowDark.uss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/SmartLibraryWindowDark.uss.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/SmartLibraryWindowLight.uss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/UI/SmartLibraryWindowLight.uss.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Undo.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Undo/CollectionUndoService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Undo/CollectionUndoService.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Undo/CollectionsUndoState.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Undo/CollectionsUndoState.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Undo/Operations.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Undo/Operations/DestroyCollectionOperation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Undo/Operations/DestroyCollectionOperation.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Undo/Operations/NotifyCollectionAddRemoveOperation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Undo/Operations/NotifyCollectionAddRemoveOperation.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Undo/Operations/NotifyCollectionMovedOperation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Undo/Operations/NotifyCollectionMovedOperation.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Undo/Operations/NotifyItemsChangedOperation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Undo/Operations/NotifyItemsChangedOperation.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Undo/UndoOperation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Undo/UndoOperation.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Utility.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Utility/AssetPreviewRef.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Utility/AssetPreviewRef.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Utility/AssetSelection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Utility/AssetSelection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Utility/AssetUtility.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Utility/AssetUtility.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Utility/CollectionSaveSync.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Utility/CollectionSaveSync.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Utility/FilteredSet.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Utility/FilteredSet.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Utility/LibraryConstants.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Utility/LibraryConstants.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Utility/LibraryItemEntryComparer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Utility/LibraryItemEntryComparer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Utility/LibraryUtility.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Utility/LibraryUtility.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Utility/TypeAccessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/Utility/TypeAccessor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/BTreeView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/BTreeView.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/BTreeViewItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/BTreeViewItem.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/ComponentTypeField.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/ComponentTypeField.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/DragAutoScroller.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/DragAutoScroller.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/FolderField.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/FolderField.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/FolderSelector.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/FolderSelector.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/HierarchyChangedEvent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/HierarchyChangedEvent.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/IMGUI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/IMGUI/GridViewControl.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/IMGUI/GridViewControl.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/IMGUI/ItemsViewControl.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/IMGUI/ItemsViewControl.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/IMGUI/ListViewControl.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/IMGUI/ListViewControl.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/IconButton.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/IconButton.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/ListViewDragManipulator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/ListViewDragManipulator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/MultiSplitView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/MultiSplitView.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/ProcessSpinner.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/ProcessSpinner.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/RenamableLabel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/RenamableLabel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/ReorderableList.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/ReorderableList.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/SplitResizer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/SplitResizer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/TypeField.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/TypeField.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/UnityTypeDropdown.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/Base/UnityTypeDropdown.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/CollectionField.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/CollectionField.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/CollectionSelector.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/CollectionSelector.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/CollectionTreeItemElement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/CollectionTreeItemElement.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/CollectionTreeViewItems.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/CollectionTreeViewItems.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/CollectionsTreeView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/CollectionsTreeView.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/ComponentTypeDropdown.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/ComponentTypeDropdown.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/LibraryDataEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/LibraryDataEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/LibraryItemsView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/LibraryItemsView.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/RulesView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Editor/View/RulesView.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Manual.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Manual.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Runtime.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Runtime/Bewildered.SmartLibrary.Runtime.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Runtime/Bewildered.SmartLibrary.Runtime.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Runtime/CollectionDefaultParent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Runtime/CollectionDefaultParent.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Runtime/UniqueID.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/Runtime/UniqueID.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SmartLibrary/package.json.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/ReadMe.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/ReadMe.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/Settings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/Settings.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/Wingman.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/Wingman.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/Wingman.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/Wingman.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/WingmanClipboard.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/WingmanClipboard.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/WingmanClipboardUtility.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/WingmanClipboardUtility.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/WingmanComponentCopy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/WingmanComponentCopy.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/WingmanContainer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/WingmanContainer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/WingmanIcons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/WingmanIcons.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/WingmanPersistentData.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/WingmanPersistentData.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/WingmanPersistentData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Wingman/WingmanPersistentData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/Read me.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/Read me.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFolders.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFolders.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFolders.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFolders.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersCache.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersCache.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersGUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersGUI.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersHistory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersHistory.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersIconEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersIconEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersLibs.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersLibs.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersMenu.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersMenuItems.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersMenuItems.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersNavbar.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersNavbar.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersPalette.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersPalette.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersPaletteEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersPaletteEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersPaletteWindow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vFolders/VFoldersPaletteWindow.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/Read me.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/Read me.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchy.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchy.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchy.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyCache.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyCache.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyComponentEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyComponentEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyComponentWindow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyComponentWindow.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyDataComponent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyDataComponent.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyGUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyGUI.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyIconEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyIconEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyLibs.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyLibs.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyLightingWindow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyLightingWindow.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyMenu.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyMenuItems.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyMenuItems.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyNavbar.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyNavbar.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyPalette.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyPalette.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyPaletteEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyPaletteEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyPaletteWindow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchyPaletteWindow.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchySceneSelectorWindow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/VHierarchySceneSelectorWindow.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/vHierarchy Data.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vHierarchy/vHierarchy Data.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/Read me.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/Read me.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspector.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspector.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspector.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspector.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorAttributes.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorClipboard.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorClipboard.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorComponentHeader.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorComponentHeader.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorComponentWindow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorComponentWindow.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorDrawers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorDrawers.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorLibs.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorLibs.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorMenu.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorNavbar.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorNavbar.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorResettableVariables.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorResettableVariables.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorSelectionHistory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorSelectionHistory.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorSerializedDictionary.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorSerializedDictionary.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorState.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/vInspector/VInspectorState.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/MemorySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/MultiplayerManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/VersionControlSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmartLibrarySettings/Collections/HelloCube_b386a16a-bf4e-4357-8a47-0e26d4fa7928.collect" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmartLibrarySettings/Collections/ROOT_de1da562-1306-4056-8aa7-8daf996b8fa5.collect" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/HelloCube/_Common/ExecuteAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@e581b903be8e/Unity.Entities.Hybrid/Baking/Baker.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="37KhbtWFClB4uOKdKUKGun4Y6X8" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="D:\Applications\UnityHub\6000.0.59f2\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath D:\Projects\Unity\Learning\Learning_ECS_Unity\Dots101\Entities101 -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\Projects\Unity\Learning\Learning_ECS_Unity\Dots101\Entities101" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="D:\Applications\UnityHub\6000.0.59f2\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath D:\Projects\Unity\Learning\Learning_ECS_Unity\Dots101\Entities101 -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\Projects\Unity\Learning\Learning_ECS_Unity\Dots101\Entities101" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useMixedMode" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useMixedMode" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Device" type="UnityDevicePlayer" factoryName="UnityAttachToDevicePlayer">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3334a8c-9c2b-41fc-a621-1e5b7beb878a" name="Changes" comment="" />
+      <created>1766657747921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766657747921</updated>
+      <workItem from="1766657750485" duration="2991000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
