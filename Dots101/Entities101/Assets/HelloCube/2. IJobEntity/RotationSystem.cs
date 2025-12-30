@@ -25,9 +25,9 @@ namespace HelloCube.JobEntity {
         public float DeltaTime;
         public float ElapsedTime;
 
-        void Execute(ref LocalTransform transform, ref PostTransformMatrix postTransformMatrix, in RotationSpeed speed) {
+        void Execute(ref LocalTransform transform, in RotationSpeed speed) {
             transform = transform.RotateY(speed.RadianPerSecond * DeltaTime);
-            postTransformMatrix.Value = float4x4.Scale(1, math.sin(ElapsedTime), 1);
+            // postTransformMatrix.Value = float4x4.Scale(1, math.sin(ElapsedTime), 1);
         }
     }
 }
