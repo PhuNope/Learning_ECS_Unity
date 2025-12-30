@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e3334a8c-9c2b-41fc-a621-1e5b7beb878a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HelloCube/HelloCube.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HelloCube/HelloCube.asmdef" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SmartLibrarySettings/Collections/HelloCube_b386a16a-bf4e-4357-8a47-0e26d4fa7928.collect" beforeDir="false" afterPath="$PROJECT_DIR$/SmartLibrarySettings/Collections/HelloCube_b386a16a-bf4e-4357-8a47-0e26d4fa7928.collect" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SmartLibrarySettings/Collections/ROOT_de1da562-1306-4056-8aa7-8daf996b8fa5.collect" beforeDir="false" afterPath="$PROJECT_DIR$/SmartLibrarySettings/Collections/ROOT_de1da562-1306-4056-8aa7-8daf996b8fa5.collect" afterDir="false" />
     </list>
@@ -20,6 +19,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/4. IJobChunk/RotationSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HelloCube/5. Reparenting/RotationSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/_Common/ExecuteAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@e581b903be8e/Unity.Entities.Hybrid/Baking/Baker.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -113,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1766657747921</updated>
       <workItem from="1766657750485" duration="2991000" />
-      <workItem from="1767077509338" duration="6649000" />
+      <workItem from="1767077509338" duration="8290000" />
     </task>
     <servers />
   </component>
