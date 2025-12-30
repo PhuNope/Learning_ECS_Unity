@@ -20,6 +20,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/4. IJobChunk/RotationSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/5. Reparenting/RotationSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HelloCube/6. EnableableComponents/HelloCube_EnableableComponents.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/_Common/ExecuteAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@e581b903be8e/Unity.Entities.Hybrid/Baking/Baker.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -113,7 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1766657747921</updated>
       <workItem from="1766657750485" duration="2991000" />
-      <workItem from="1767077509338" duration="8290000" />
+      <workItem from="1767077509338" duration="10012000" />
     </task>
     <servers />
   </component>
