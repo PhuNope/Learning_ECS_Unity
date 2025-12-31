@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e3334a8c-9c2b-41fc-a621-1e5b7beb878a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HelloCube/7. GameObjectSync/HelloCube_GameObjectSync.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HelloCube/7. GameObjectSync/HelloCube_GameObjectSync.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HelloCube/7. GameObjectSync/RotationSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HelloCube/7. GameObjectSync/RotationSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HelloCube/7. GameObjectSync/Subscenes/HelloCube_GameObjectSyncSubscene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HelloCube/7. GameObjectSync/Subscenes/HelloCube_GameObjectSyncSubscene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HelloCube/HelloCube.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HelloCube/HelloCube.asmdef" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SmartLibrarySettings/Collections/HelloCube_b386a16a-bf4e-4357-8a47-0e26d4fa7928.collect" beforeDir="false" afterPath="$PROJECT_DIR$/SmartLibrarySettings/Collections/HelloCube_b386a16a-bf4e-4357-8a47-0e26d4fa7928.collect" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SmartLibrarySettings/Collections/ROOT_de1da562-1306-4056-8aa7-8daf996b8fa5.collect" beforeDir="false" afterPath="$PROJECT_DIR$/SmartLibrarySettings/Collections/ROOT_de1da562-1306-4056-8aa7-8daf996b8fa5.collect" afterDir="false" />
     </list>
@@ -46,6 +50,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -115,6 +120,7 @@
       <updated>1766657747921</updated>
       <workItem from="1766657750485" duration="2991000" />
       <workItem from="1767077509338" duration="11638000" />
+      <workItem from="1767148291392" duration="5638000" />
     </task>
     <servers />
   </component>
