@@ -13,7 +13,7 @@ namespace HelloCube.GameObjectSync {
             state.RequireForUpdate<ExecuteGameObjectSync>();
         }
 
-        [BurstCompile]
+        // This OnUpdate accesses managed objects, so it cannot be burst compiled.
         public void OnUpdate(ref SystemState state) {
             var directory = SystemAPI.ManagedAPI.GetSingleton<DirectoryManaged>();
             var ecb = new EntityCommandBuffer(Allocator.Temp);
