@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1334844358414009743}
   - component: {fileID: 5087085599688732565}
   - component: {fileID: 6907115610576877700}
+  - component: {fileID: 7657183816340807038}
   m_Layer: 0
   m_Name: Projecttile
   m_TagString: Untagged
@@ -86,3 +87,15 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &7657183816340807038
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4209498286573715616}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 092a90e6214c43cb83c6e384651c2016, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
