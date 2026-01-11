@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e3334a8c-9c2b-41fc-a621-1e5b7beb878a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HelloCube/11. FixedTimestep/FixedTimestep.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HelloCube/11. FixedTimestep/FixedTimestep.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HelloCube/11. FixedTimestep/Subscenes/FixedTimestepSubscene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HelloCube/11. FixedTimestep/Subscenes/FixedTimestepSubscene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartLibrarySettings/Collections/HelloCube_b386a16a-bf4e-4357-8a47-0e26d4fa7928.collect" beforeDir="false" afterPath="$PROJECT_DIR$/SmartLibrarySettings/Collections/HelloCube_b386a16a-bf4e-4357-8a47-0e26d4fa7928.collect" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartLibrarySettings/Collections/ROOT_de1da562-1306-4056-8aa7-8daf996b8fa5.collect" beforeDir="false" afterPath="$PROJECT_DIR$/SmartLibrarySettings/Collections/ROOT_de1da562-1306-4056-8aa7-8daf996b8fa5.collect" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/10. FirstPersonController/ControllerAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/11. FixedTimestep/SliderHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HelloCube/12. Custom2DTransforms/Transform2DAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/4. IJobChunk/RotationSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/5. Reparenting/RotationSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/6. EnableableComponents/HelloCube_EnableableComponents.unity" root0="FORCE_HIGHLIGHTING" />
@@ -117,7 +120,8 @@
       <workItem from="1767291299756" duration="170000" />
       <workItem from="1767291488092" duration="730000" />
       <workItem from="1767954096790" duration="2812000" />
-      <workItem from="1768133412304" duration="1912000" />
+      <workItem from="1768133412304" duration="2729000" />
+      <workItem from="1768148907892" duration="4419000" />
     </task>
     <servers />
   </component>
