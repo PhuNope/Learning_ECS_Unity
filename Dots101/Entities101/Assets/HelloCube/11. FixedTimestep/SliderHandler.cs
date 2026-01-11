@@ -16,7 +16,7 @@ namespace HelloCube.FixedTimestep {
             var fixedSimulationGroup = World.DefaultGameObjectInjectionWorld?.GetExistingSystemManaged<FixedStepSimulationSystemGroup>();
             if (fixedSimulationGroup != null) {
                 // the group timestep can be set at runtime
-                fixedSimulationGroup.Timestep = 1.0f;
+                fixedSimulationGroup.Timestep = 1.0f / fixedFps;
 
                 // The current timestep can also be retrieved
                 SliderValueText.text = $"{(int)(1.0f / fixedSimulationGroup.Timestep)} updates/sec";
