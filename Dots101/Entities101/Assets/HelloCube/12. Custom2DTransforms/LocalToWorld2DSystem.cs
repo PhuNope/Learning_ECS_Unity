@@ -2,11 +2,18 @@
 using Unity.Burst;
 using Unity.Burst.Intrinsics;
 using Unity.Collections;
+using Unity.Collections.LowLevel.Unsafe;
 using Unity.Entities;
 using Unity.Mathematics;
 using Unity.Transforms;
 
 namespace HelloCube.CustomTransforms {
+    // This system computes a transform matric for each entity with a LocalTransform2D
+
+    // For root-level / world-space entities with no Parent, the LocalToWorld can be computed directly from the entity's LocalTransform2D
+
+    // For child entities, each unique hỉerarchy is traveled recursively, computing each child's LocalToWorld by composing its LocalTransform with parent's transform
+
     [WorldSystemFilter(WorldSystemFilterFlags.Default | WorldSystemFilterFlags.Editor)]
     [UpdateInGroup(typeof(TransformSystemGroup))]
     [UpdateAfter(typeof(ParentSystem))]
@@ -26,7 +33,7 @@ namespace HelloCube.CustomTransforms {
 
             var parentsQuery = SystemAPI.QueryBuilder()
                 .WithAll<LocalTransform2D, Child>()
-                .WithAllRW<Child>()
+                .WithAllRW<LocalToWorld>()
                 .WithNone<Parent>().Build();
 
             var localToWorldWriteGroupMask = SystemAPI.QueryBuilder()
@@ -71,7 +78,7 @@ namespace HelloCube.CustomTransforms {
 
             LocalTransform2D* chunk2DLocalTransforms = (LocalTransform2D*)chunk.GetRequiredComponentDataPtrRO(ref LocalTransform2DTypeHandleRO);
             if (chunk.DidChange(ref LocalTransform2DTypeHandleRO, LastSystemVersion) || chunk.DidChange(ref PostTransformMatrixTypeHandleRO, LastSystemVersion)) {
-                LocalToWorld* chunkLocalToWorlds = (LocalToWorld*)chunk.GetRequiredComponentDataPtrRW(ref LocalTransform2DTypeHandleRO);
+                LocalToWorld* chunkLocalToWorlds = (LocalToWorld*)chunk.GetRequiredComponentDataPtrRW(ref LocalToWorldTypeHandleRW);
                 PostTransformMatrix* chunkPostTransformMatrices = (PostTransformMatrix*)chunk.GetComponentDataPtrRO(ref PostTransformMatrixTypeHandleRO);
 
                 if (chunkPostTransformMatrices != null) {
@@ -90,7 +97,7 @@ namespace HelloCube.CustomTransforms {
 
     [BurstCompile]
     unsafe struct ComputeChildLocalToWorldJob : IJobChunk {
-        [NativeDisableParallelForRestriction] public ComponentLookup<LocalToWorld> LocalToWorldLookup;
+        [NativeDisableContainerSafetyRestriction] public ComponentLookup<LocalToWorld> LocalToWorldLookup;
 
         [ReadOnly] public EntityQueryMask LocalToWorldWriteGroupMask;
         [ReadOnly] public BufferTypeHandle<Child> ChildTypeHandle;
@@ -104,7 +111,7 @@ namespace HelloCube.CustomTransforms {
             Assert.IsFalse(useEnabledMask);
 
             bool updateChildrenTransform = chunk.DidChange(ref ChildTypeHandle, LastSystemVersion);
-            BufferAccessor<Child> chunkChildBuffers = chunk.GetBufferAccessor(ref ChildTypeHandle);
+            BufferAccessor<Child> chunkChildBuffers = chunk.GetBufferAccessorRO(ref ChildTypeHandle);
             updateChildrenTransform = updateChildrenTransform || chunk.DidChange(ref LocalToWorldTypeHandleRW, LastSystemVersion);
 
             LocalToWorld* chunkLocalToWorlds = (LocalToWorld*)chunk.GetRequiredComponentDataPtrRO(ref LocalToWorldTypeHandleRW);
