@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e3334a8c-9c2b-41fc-a621-1e5b7beb878a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HelloCube/12. Custom2DTransforms/LocalToWorld2DSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HelloCube/12. Custom2DTransforms/LocalToWorld2DSystem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartLibrarySettings/Collections/HelloCube_b386a16a-bf4e-4357-8a47-0e26d4fa7928.collect" beforeDir="false" afterPath="$PROJECT_DIR$/SmartLibrarySettings/Collections/HelloCube_b386a16a-bf4e-4357-8a47-0e26d4fa7928.collect" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartLibrarySettings/Collections/ROOT_de1da562-1306-4056-8aa7-8daf996b8fa5.collect" beforeDir="false" afterPath="$PROJECT_DIR$/SmartLibrarySettings/Collections/ROOT_de1da562-1306-4056-8aa7-8daf996b8fa5.collect" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,39 +21,44 @@
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/10. FirstPersonController/ControllerAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/11. FixedTimestep/SliderHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/12. Custom2DTransforms/Transform2DAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HelloCube/13. StateChange/ConfigAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HelloCube/13. StateChange/Cube.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HelloCube/13. StateChange/Profiling/ProfilerModuleSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/4. IJobChunk/RotationSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/5. Reparenting/RotationSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/6. EnableableComponents/HelloCube_EnableableComponents.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/_Common/ExecuteAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@e581b903be8e/Unity.Entities.Hybrid/Baking/Baker.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="37KhbtWFClB4uOKdKUKGun4Y6X8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.C#&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="D:\Applications\UnityHub\6000.0.59f2\Editor\Unity.exe" />
@@ -128,7 +132,7 @@
       <workItem from="1768133412304" duration="2729000" />
       <workItem from="1768148907892" duration="4419000" />
       <workItem from="1769068224384" duration="2718000" />
-      <workItem from="1769071066782" duration="650000" />
+      <workItem from="1769071066782" duration="7138000" />
     </task>
     <servers />
   </component>

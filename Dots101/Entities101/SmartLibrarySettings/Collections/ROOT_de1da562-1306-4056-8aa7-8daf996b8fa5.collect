@@ -82,6 +82,10 @@ MonoBehaviour:
       _guid: 4b9b695a886284f48a4ed988a47d77f9
     collectionIds:
     - _serializedGuid: 6aa186b34ebf57438a470e26d4fa7928
+  - item:
+      _guid: 28e4b0dd42c62cf46bedb1b0935de68c
+    collectionIds:
+    - _serializedGuid: 6aa186b34ebf57438a470e26d4fa7928
   references:
     version: 2
     RefIds: []
