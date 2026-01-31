@@ -11,7 +11,6 @@ namespace HelloCube.GameObjectSync {
             state.RequireForUpdate<ExecuteGameObjectSync>();
         }
 
-        [BurstCompile]
         public void OnUpdate(ref SystemState state) {
             var directory = SystemAPI.ManagedAPI.GetSingleton<DirectoryManaged>();
             if (!directory.RotationToggle.isOn) return;

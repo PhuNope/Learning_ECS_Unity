@@ -12,7 +12,6 @@ namespace HelloCube.GameObjectSync {
             state.RequireForUpdate<ExecuteGameObjectSync>();
         }
 
-        [BurstCompile]
         public void OnUpdate(ref SystemState state) {
             state.Enabled = false;
 

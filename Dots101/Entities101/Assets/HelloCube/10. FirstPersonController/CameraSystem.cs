@@ -13,7 +13,6 @@ namespace HelloCube.FirstPersonController {
             state.RequireForUpdate<ExecuteFirstPersonController>();
         }
 
-        [BurstCompile]
         public void OnUpdate(ref SystemState state) {
             if (Camera.main != null) {
                 var transformLookup = SystemAPI.GetComponentLookup<LocalTransform>(true);
