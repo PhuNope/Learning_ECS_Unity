@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3334a8c-9c2b-41fc-a621-1e5b7beb878a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SmartLibrarySettings/Collections/HelloCube_b386a16a-bf4e-4357-8a47-0e26d4fa7928.collect" beforeDir="false" afterPath="$PROJECT_DIR$/SmartLibrarySettings/Collections/HelloCube_b386a16a-bf4e-4357-8a47-0e26d4fa7928.collect" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SmartLibrarySettings/Collections/ROOT_de1da562-1306-4056-8aa7-8daf996b8fa5.collect" beforeDir="false" afterPath="$PROJECT_DIR$/SmartLibrarySettings/Collections/ROOT_de1da562-1306-4056-8aa7-8daf996b8fa5.collect" afterDir="false" />
     </list>
@@ -24,10 +23,16 @@
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/13. StateChange/ConfigAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/13. StateChange/Cube.prefab" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/13. StateChange/Profiling/ProfilerModuleSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HelloCube/14. ClosestTarget/TargetAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HelloCube/14. ClosestTarget/TargetingSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/4. IJobChunk/RotationSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/5. Reparenting/RotationSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/6. EnableableComponents/HelloCube_EnableableComponents.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/_Common/ExecuteAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/KickBall/ExecuteAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -40,28 +45,29 @@
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="D:\Applications\UnityHub\6000.0.59f2\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="D:\UnityHub\6000.0.59f2\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath D:\Projects\Unity\Learning\Learning_ECS_Unity\Dots101\Entities101 -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="D:\Projects\Unity\Learning\Learning_ECS_Unity\Dots101\Entities101" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -69,11 +75,10 @@
       <option name="ENV_FILE_PATHS" value="" />
       <option name="REDIRECT_INPUT_PATH" value="" />
       <option name="PTY_MODE" value="Auto" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
       <method v="2" />
     </configuration>
     <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="D:\Applications\UnityHub\6000.0.59f2\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="D:\UnityHub\6000.0.59f2\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath D:\Projects\Unity\Learning\Learning_ECS_Unity\Dots101\Entities101 -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="D:\Projects\Unity\Learning\Learning_ECS_Unity\Dots101\Entities101" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -81,7 +86,6 @@
       <option name="ENV_FILE_PATHS" value="" />
       <option name="REDIRECT_INPUT_PATH" value="" />
       <option name="PTY_MODE" value="Auto" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
       <method v="2" />
     </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -133,6 +137,7 @@
       <workItem from="1768148907892" duration="4419000" />
       <workItem from="1769068224384" duration="2718000" />
       <workItem from="1769071066782" duration="7138000" />
+      <workItem from="1769879013203" duration="5885000" />
     </task>
     <servers />
   </component>
