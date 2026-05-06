@@ -11,10 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3334a8c-9c2b-41fc-a621-1e5b7beb878a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/AndroidProjectSystem.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/KickBall/ExecuteAuthoring.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KickBall/Common/ExecuteAuthoring.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/KickBall/ExecuteAuthoring.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KickBall/Common/ExecuteAuthoring.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SmartLibrarySettings/Collections/KickBall_0fd3386c-dc21-4a2c-ba4c-533d68aff6b1.collect" beforeDir="false" afterPath="$PROJECT_DIR$/SmartLibrarySettings/Collections/KickBall_0fd3386c-dc21-4a2c-ba4c-533d68aff6b1.collect" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SmartLibrarySettings/Collections/ROOT_de1da562-1306-4056-8aa7-8daf996b8fa5.collect" beforeDir="false" afterPath="$PROJECT_DIR$/SmartLibrarySettings/Collections/ROOT_de1da562-1306-4056-8aa7-8daf996b8fa5.collect" afterDir="false" />
     </list>
@@ -43,6 +40,11 @@
     <setting file="file://$PROJECT_DIR$/Assets/KickBall/Step 2/PlayerAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/KickBall/Step 2/PlayerMovementSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/KickBall/Step 2/PlayerSpawnerSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/KickBall/Step 3/BallAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/KickBall/Step 3/BallMovementSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/KickBall/Step 3/BallSpawnerSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/KickBall/Step 4/NewBallMovementSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/KickBall/Step 4/NewPlayerMovementSystem.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -155,7 +157,7 @@
       <workItem from="1769071066782" duration="7138000" />
       <workItem from="1769879013203" duration="5885000" />
       <workItem from="1777969810752" duration="7078000" />
-      <workItem from="1778033462792" duration="4885000" />
+      <workItem from="1778033462792" duration="16174000" />
     </task>
     <servers />
   </component>

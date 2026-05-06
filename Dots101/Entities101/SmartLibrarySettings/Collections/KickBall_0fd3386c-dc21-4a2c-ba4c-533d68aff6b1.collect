@@ -28,6 +28,8 @@ MonoBehaviour:
     _hashSetList:
     - 0791c71116195d146b3515ecd6c80514
     - 55a7cd3e553c30f4eb5264f7aa09afc2
+    - 5ab8760d781cd4f419839f38c19e76c8
+    - aacad5ad103adfa4cb8f220a7ae560e3
   _itemDisplaySize: 100
   _viewStyle: 0
   _useCollectionViewSettings: 0
