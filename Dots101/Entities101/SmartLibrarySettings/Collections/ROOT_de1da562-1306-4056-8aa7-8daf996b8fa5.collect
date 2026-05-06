@@ -100,6 +100,10 @@ MonoBehaviour:
       _guid: 0791c71116195d146b3515ecd6c80514
     collectionIds:
     - _serializedGuid: 6c38d30f21dc2c4aba4c533d68aff6b1
+  - item:
+      _guid: 55a7cd3e553c30f4eb5264f7aa09afc2
+    collectionIds:
+    - _serializedGuid: 6c38d30f21dc2c4aba4c533d68aff6b1
   references:
     version: 2
     RefIds: []
