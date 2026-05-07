@@ -45,6 +45,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/KickBall/Step 3/BallSpawnerSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/KickBall/Step 4/NewBallMovementSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/KickBall/Step 4/NewPlayerMovementSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/KickBall/Step 5/BallCarrySystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/KickBall/Step 5/BallKickingSystem.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -158,6 +160,7 @@
       <workItem from="1769879013203" duration="5885000" />
       <workItem from="1777969810752" duration="7078000" />
       <workItem from="1778033462792" duration="16174000" />
+      <workItem from="1778119353799" duration="3980000" />
     </task>
     <servers />
   </component>
