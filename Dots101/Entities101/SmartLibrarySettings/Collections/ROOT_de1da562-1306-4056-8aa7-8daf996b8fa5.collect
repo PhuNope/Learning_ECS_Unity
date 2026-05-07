@@ -19,9 +19,11 @@ MonoBehaviour:
   _subcollections:
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
   _subcollectionIDs:
   - _serializedGuid: 6aa186b34ebf57438a470e26d4fa7928
   - _serializedGuid: 6c38d30f21dc2c4aba4c533d68aff6b1
+  - _serializedGuid: 1338ca0f0336594b81f980dc302f7152
   _collectionName: ROOT
   _id:
     _serializedGuid: 62a51dde061356408aa78daf996b8fa5
@@ -116,6 +118,10 @@ MonoBehaviour:
       _guid: d852d3072ad9c5141a7af9c8d62bcd74
     collectionIds:
     - _serializedGuid: 6c38d30f21dc2c4aba4c533d68aff6b1
+  - item:
+      _guid: c4c742837ff2c4143823d9075c089f30
+    collectionIds:
+    - _serializedGuid: 1338ca0f0336594b81f980dc302f7152
   references:
     version: 2
     RefIds: []

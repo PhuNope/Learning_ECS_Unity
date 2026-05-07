@@ -1,0 +1,22 @@
+{
+    "name": "Firefighters",
+    "rootNamespace": "Firefighters",
+    "references": [
+        "Unity.Entities",
+        "Unity.Mathematics",
+        "Unity.Collections",
+        "Unity.Transforms",
+        "Unity.Entities.Graphics",
+        "Unity.Burst",
+        "Unity.Entities.Hybrid"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
