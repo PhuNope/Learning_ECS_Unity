@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7529731465544953748}
   - component: {fileID: -2129752215058446145}
+  - component: {fileID: 1320453041639677703}
   m_Layer: 0
   m_Name: Config
   m_TagString: Untagged
@@ -50,3 +51,39 @@ MonoBehaviour:
   ExecuteTeamSystem: 0
   ExecuteUISystem: 0
   ExecuteAnimationSystem: 0
+--- !u!114 &1320453041639677703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3006724141068866167}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cd40acc4c7b4c25b69c20349dc5fba6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  NumPondsPerEdge: 12
+  NumTeams: 1
+  NumPassersPerTeam: 6
+  BotMoveSpeed: 3
+  LineMaxOffset: 4
+  BucketFillRate: 0.2
+  NumberBuckets: 15
+  BucketEmptyColor: {r: 0.7137255, g: 0.49019608, b: 0.011764706, a: 0}
+  BucketFullColor: {r: 0.1254902, g: 0.5647059, b: 0.6784314, a: 0}
+  BucketEmptyScale: 0.5
+  BucketFullScale: 1.5
+  GroundNumColumns: 30
+  GroundNumRows: 50
+  MinHeatColor: {r: 0.0627451, g: 0.63529414, b: 0, a: 0}
+  MaxHeatColor: {r: 0.76862746, g: 0, b: 0, a: 0}
+  HeatSpreadSpeed: 0.03
+  HeatOscillationScale: 0.2
+  NumInitialCellsOnFire: 8
+  HeatDouseTargetMin: 0.3
+  BotPrefab: {fileID: 8279957027042710145, guid: 9afb66e0786e8754f815dbb79e6ab117, type: 3}
+  BucketPrefab: {fileID: 6960241100117126027, guid: 6aedf8729a1c52540be66ac2eaf4c0c9, type: 3}
+  PondPrefab: {fileID: 409405276970742295, guid: 76008defc54a71b469d2c91fae5d4a44, type: 3}
+  GroundCellPrefab: {fileID: 1963025944780605402, guid: 89e63950e7d98024ea001d45e9182cb9, type: 3}
+  BotAnimatedPrefabGO: {fileID: 5701704621631426976, guid: 36e93c435d1648a4c86d516057a9cbe2, type: 3}
