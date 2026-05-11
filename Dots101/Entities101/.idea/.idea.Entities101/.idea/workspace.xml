@@ -12,12 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e3334a8c-9c2b-41fc-a621-1e5b7beb878a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Firefighters/Step 1/BotAuthoring.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Firefighters/Step 1/BotAuthoring.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Firefighters/Step 1/BucketAuthoring.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Firefighters/Step 1/BucketAuthoring.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Firefighters/Step 1/ConfigAuthoring.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Firefighters/Step 1/ConfigAuthoring.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Firefighters/Step 2/HeatSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Firefighters/Step 2/HeatSystem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartLibrarySettings/Collections/Firefighters_0fca3813-3603-4b59-81f9-80dc302f7152.collect" beforeDir="false" afterPath="$PROJECT_DIR$/SmartLibrarySettings/Collections/Firefighters_0fca3813-3603-4b59-81f9-80dc302f7152.collect" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartLibrarySettings/Collections/ROOT_de1da562-1306-4056-8aa7-8daf996b8fa5.collect" beforeDir="false" afterPath="$PROJECT_DIR$/SmartLibrarySettings/Collections/ROOT_de1da562-1306-4056-8aa7-8daf996b8fa5.collect" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +36,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/Firefighters/Step 3/BotSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Firefighters/Step 3/BucketSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Firefighters/Step 3/LineSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Firefighters/Step 4/AnimationSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Firefighters/Step 4/UIController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Firefighters/Step 4/UISystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/10. FirstPersonController/ControllerAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/11. FixedTimestep/SliderHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/HelloCube/12. Custom2DTransforms/Transform2DAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
@@ -182,7 +180,7 @@
       <workItem from="1778033462792" duration="16174000" />
       <workItem from="1778119353799" duration="18016000" />
       <workItem from="1778313954556" duration="8156000" />
-      <workItem from="1778464959593" duration="18746000" />
+      <workItem from="1778464959593" duration="20307000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,5 @@
-﻿using Unity.Entities;
+﻿using Firefighters.Step_4;
+using Unity.Entities;
 using Unity.Mathematics;
 using UnityEngine;
 
@@ -114,6 +115,6 @@ namespace Firefighters {
 
     public class ConfigManaged : IComponentData {
         public GameObject BotAnimatedPrefabGO;
-        // public UIController UIController;
+        public UIController UIController;
     }
 }

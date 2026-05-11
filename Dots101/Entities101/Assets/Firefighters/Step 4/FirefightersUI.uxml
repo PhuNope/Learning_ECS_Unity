@@ -1,0 +1,4 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Label text="Number of fires doused: 0" style="font-size: 24px; color: rgb(0, 0, 0);" />
+    <ui:Button text="Reposition the bucket brigade lines" parse-escape-sequences="true" style="align-items: flex-end; font-size: 24px; color: rgb(0, 0, 0); -unity-text-align: middle-left;" />
+</ui:UXML>
