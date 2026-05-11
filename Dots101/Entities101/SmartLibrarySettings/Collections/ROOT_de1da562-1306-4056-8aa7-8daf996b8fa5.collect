@@ -122,6 +122,10 @@ MonoBehaviour:
       _guid: c4c742837ff2c4143823d9075c089f30
     collectionIds:
     - _serializedGuid: 1338ca0f0336594b81f980dc302f7152
+  - item:
+      _guid: d50a84dfc62336545977bc2aa57c4b2e
+    collectionIds:
+    - _serializedGuid: 1338ca0f0336594b81f980dc302f7152
   references:
     version: 2
     RefIds: []
