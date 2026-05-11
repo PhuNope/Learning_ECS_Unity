@@ -1,10 +1,14 @@
 ﻿using Unity.Entities;
+using Unity.Rendering;
 using UnityEngine;
 
 namespace Firefighters {
     public class BucketAuthoring : MonoBehaviour {
         private class BucketAuthoringBaker : Baker<BucketAuthoring> {
             public override void Bake(BucketAuthoring authoring) {
+                var entity = GetEntity(authoring, TransformUsageFlags.Dynamic);
+                AddComponent<Bucket>(entity);
+                AddComponent<URPMaterialPropertyBaseColor>(entity);
             }
         }
     }

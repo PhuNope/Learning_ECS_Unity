@@ -20,6 +20,7 @@ namespace Firefighters {
         public bool IsDouser; // Is the bot at end of the line that douses the fire.
         public bool IsFiller; // Is the bot at the end of the line that fills the bucket. Also responsible for fetching the bucket.
         public Entity Bucket; // The bucket that the bot is carrying.
+        public bool IsCarrying; // True if carrying a bucket.
         public Entity Team; // The team to which the bot belongs.
 
         public readonly bool IsMoving() {

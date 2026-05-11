@@ -61,6 +61,8 @@ namespace Firefighters {
                     BucketFillRate = authoring.BucketFillRate,
                     MinHeatColor = (Vector4)authoring.MinHeatColor,
                     MaxHeatColor = (Vector4)authoring.MaxHeatColor,
+                    BucketEmptyColor = (Vector4)authoring.BucketEmptyColor,
+                    BucketFullColor = (Vector4)authoring.BucketFullColor,
                     BucketEmptyScale = authoring.BucketEmptyScale,
                     BucketFullScale = authoring.BucketFullScale,
                     NumInitialCellsOnFire = authoring.NumInitialCellsOnFire,

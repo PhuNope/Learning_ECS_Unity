@@ -264,50 +264,51 @@ namespace Firefighters.Step_2 {
 
                 entityIdx++;
             }
+        }
 
-            public static void DouseFire(float2 location, DynamicBuffer<Heat> heatBuffer, int numRows, int numCols) {
-                int col = (int)location.x;
-                int row = (int)location.y;
+        // douse a cell and all surrounding cells
+        public static void DouseFire(float2 location, DynamicBuffer<Heat> heatBuffer, int numRows, int numCols) {
+            int col = (int)location.x;
+            int row = (int)location.y;
 
-                DouseCell(row, col, heatBuffer, numRows, numCols);
-                DouseCell(row, col + 1, heatBuffer, numRows, numCols);
-                DouseCell(row, col - 1, heatBuffer, numRows, numCols);
-                DouseCell(row - 1, col, heatBuffer, numRows, numCols);
-                DouseCell(row - 1, col + 1, heatBuffer, numRows, numCols);
-                DouseCell(row - 1, col - 1, heatBuffer, numRows, numCols);
-                DouseCell(row + 1, col, heatBuffer, numRows, numCols);
-                DouseCell(row + 1, col + 1, heatBuffer, numRows, numCols);
-                DouseCell(row + 1, col - 1, heatBuffer, numRows, numCols);
-            }
+            DouseCell(row, col, heatBuffer, numRows, numCols);
+            DouseCell(row, col + 1, heatBuffer, numRows, numCols);
+            DouseCell(row, col - 1, heatBuffer, numRows, numCols);
+            DouseCell(row - 1, col, heatBuffer, numRows, numCols);
+            DouseCell(row - 1, col + 1, heatBuffer, numRows, numCols);
+            DouseCell(row - 1, col - 1, heatBuffer, numRows, numCols);
+            DouseCell(row + 1, col, heatBuffer, numRows, numCols);
+            DouseCell(row + 1, col + 1, heatBuffer, numRows, numCols);
+            DouseCell(row + 1, col - 1, heatBuffer, numRows, numCols);
+        }
 
-            private static void DouseCell(int row, int col, DynamicBuffer<Heat> heatBuffer, int numRows, int numCols) {
-                if (col < 0 || col >= numCols || row < 0 || row >= numRows) return;
+        private static void DouseCell(int row, int col, DynamicBuffer<Heat> heatBuffer, int numRows, int numCols) {
+            if (col < 0 || col >= numCols || row < 0 || row >= numRows) return;
 
-                heatBuffer[row * numCols + col] = new Heat { Value = 0 };
-            }
+            heatBuffer[row * numCols + col] = new Heat { Value = 0 };
+        }
 
-            public static float2 NearestFire(float2 location, DynamicBuffer<Heat> heatBuffer, int numRows, int numCols, float minHeat) {
-                var closestFirePos = new float2(0.5f, 0.5f);
-                var closestDisSq = float.MaxValue;
+        public static float2 NearestFire(float2 location, DynamicBuffer<Heat> heatBuffer, int numRows, int numCols, float minHeat) {
+            var closestFirePos = new float2(0.5f, 0.5f);
+            var closestDisSq = float.MaxValue;
 
-                // check every cell
-                for (int col = 0; col < numCols; col++) {
-                    for (int row = 0; row < numRows; row++) {
-                        if (heatBuffer[row * numCols + col].Value > minHeat) {
-                            // is cell in fire
-                            var firePos = new float2(col + 0.5f, row + 0.5f);
-                            var disSq = math.distancesq(location, firePos);
+            // check every cell
+            for (int col = 0; col < numCols; col++) {
+                for (int row = 0; row < numRows; row++) {
+                    if (heatBuffer[row * numCols + col].Value > minHeat) {
+                        // is cell in fire
+                        var firePos = new float2(col + 0.5f, row + 0.5f);
+                        var disSq = math.distancesq(location, firePos);
 
-                            if (disSq < closestDisSq) {
-                                closestFirePos = firePos;
-                                closestDisSq = disSq;
-                            }
+                        if (disSq < closestDisSq) {
+                            closestFirePos = firePos;
+                            closestDisSq = disSq;
                         }
                     }
                 }
-
-                return closestFirePos;
             }
+
+            return closestFirePos;
         }
     }
 }
