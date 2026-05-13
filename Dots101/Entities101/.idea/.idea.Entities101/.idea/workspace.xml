@@ -11,8 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3334a8c-9c2b-41fc-a621-1e5b7beb878a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/indexLayout.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Entities101/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Firefighters/Step 1/ConfigAuthoring.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Firefighters/Step 1/ConfigAuthoring.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartLibrarySettings/Collections/ROOT_de1da562-1306-4056-8aa7-8daf996b8fa5.collect" beforeDir="false" afterPath="$PROJECT_DIR$/SmartLibrarySettings/Collections/ROOT_de1da562-1306-4056-8aa7-8daf996b8fa5.collect" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +181,8 @@
       <workItem from="1778033462792" duration="16174000" />
       <workItem from="1778119353799" duration="18016000" />
       <workItem from="1778313954556" duration="8156000" />
-      <workItem from="1778464959593" duration="20307000" />
+      <workItem from="1778464959593" duration="20487000" />
+      <workItem from="1778638783290" duration="591000" />
     </task>
     <servers />
   </component>

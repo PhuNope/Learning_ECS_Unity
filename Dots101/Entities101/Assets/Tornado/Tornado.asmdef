@@ -1,0 +1,24 @@
+{
+  "name": "Tornado",
+  "rootNamespace": "Tornado",
+  "references": [
+    "Unity.Entities",
+    "Unity.Mathematics",
+    "Unity.Collections",
+    "Unity.Transforms",
+    "Unity.Entities.Graphics",
+    "Unity.Burst",
+    "Unity.Entities.Hybrid",
+    "Unity.RenderPipelines.Core.Runtime",
+    "Unity.Scenes"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
