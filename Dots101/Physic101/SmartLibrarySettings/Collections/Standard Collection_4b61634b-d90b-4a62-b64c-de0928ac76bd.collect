@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60cfc8d3abbb89545a156b421a79d41b, type: 3}
+  m_Name: Standard Collection
+  m_EditorClassIdentifier: Bewildered.SmartLibrary::Bewildered.SmartLibrary.StandardCollection
+  _parentID:
+    _serializedGuid: decbf15fc7e545429fc882fd097c95b8
+  _subcollectionIDs: []
+  _collectionName: Standard Collection
+  _id:
+    _serializedGuid: 4b63614b0bd9624ab64cde0928ac76bd
+  _icon: {fileID: 0}
+  _rules:
+    _rules: []
+  _items:
+    _hashSetList:
+    - 7a54c88db227eae4095ba9ced8a66542
+  _itemDisplaySize: 100
+  _viewStyle: 0
+  _useCollectionViewSettings: 0
+  references:
+    version: 2
+    RefIds: []
